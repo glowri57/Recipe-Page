@@ -72,7 +72,7 @@ ol li {
 #p1 {
     margin-bottom: 0.625rem;
 }
-#ingredients ul {
+.ingredients ul {
     padding-bottom: 1.25rem;
     border-bottom: 1pt solid hsl(30, 18%, 87%);
     color: hsl(14, 45%, 36%); 
@@ -82,10 +82,10 @@ span {
     color: hsl(30, 10%, 34%);
     font-weight: normal;
 }
-#instructions h3 {
+.instructions h3 {
     margin-bottom: 0;
 }
-#instructions {
+.instructions {
     color: hsl(14, 45%, 36%);
     font-weight: bold;
 
